@@ -1,3 +1,6 @@
 [submodule "pynet"]
 	path = pynet
 	url = https://github.com/zacklukem/pynet.git
+[submodule "stockmanager"]
+	path = stockmanager
+	url = https://github.com/zacklukem/stockmanager.git
